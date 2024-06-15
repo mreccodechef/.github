@@ -1,1 +1,1 @@
-![Team_Poster](profile/team.png)
+![Team_Poster](team.png)
